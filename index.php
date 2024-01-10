@@ -62,7 +62,6 @@
 
 								echo '<br>';
 							echo '<hr>';
-                            echo '<img src="dark-old.png" alt="kolan bilişim teknolojileri | wwww.kolan.net.tr">';
                         } else {
 							echo '<br>';
 							echo '<hr>';
@@ -71,7 +70,6 @@
                             echo '<font color="red"><div class="alert alert-danger"><i class="fa-solid fa-ban"></i> WHOIS bilgileri bulunamadı. </div></font>';
 							echo '<br>';
 							echo '<hr>';
-                            echo '<img src="dark-old.png" alt="kolan bilişim teknolojileri | wwww.kolan.net.tr">';
 							echo '</center>';
                         }
                     }
